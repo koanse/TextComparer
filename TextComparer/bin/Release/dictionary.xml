@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot>
+ <solarix_version>pro</solarix_version>
+ <dictionary_version>13</dictionary_version>
+ <morphology>diction&#46;bin</morphology>
+ <thesaurus>thesaurus&#46;bin</thesaurus>
+ <seeker>seeker&#46;bin</seeker>
+ <affixes>affixes&#46;bin</affixes>
+ <syntax>syntax&#46;bin</syntax>
+ <stemmer>stemmer&#46;dll</stemmer>
+ <stopwords>stopwords</stopwords>
+ <ngrams>.</ngrams>
+</dataroot>
